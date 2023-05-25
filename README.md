@@ -21,7 +21,13 @@ Based on this study https://pubmed.ncbi.nlm.nih.gov/24662157/, the optimal grip 
 - Tape measure
 
 ## Materials
-- Plywood
+- Plywood, dimensions according to the plan (I used two panels half the thickness and glued them together)
 - Fastening material (shackles or rope, hooks, carabiners)
 
 ## Choose the right plan
+Measure your biacromial breadth, there are multiple online instructions.
+Go to "cad/pull-up bar variants/" and choose the right PDF-file
+
+## Print the plan
+If you have a standard printer you can use the tiling feature of your favourite PDF Reader to print the second sheet to multiple small sheets and align them using the marks.
+Transfer the contour to the plywood, cut it, use the router to round off the edges, sand it, hang it.
