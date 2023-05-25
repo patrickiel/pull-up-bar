@@ -10,7 +10,7 @@ I was not satisfied with the commercial ceiling mount pull-up bars. Therefore, I
 - Reuse existing hooks, it should be possible to attach the unit to the same hooks as the gymnastic rings. For the rings, the standard distance is 50 cm.
 
 # Biacromial breadth
-Based on this study https://pubmed.ncbi.nlm.nih.gov/24662157/, the optimal grip width is 1-2 times the biacromial distance. A medium grip (1.5 times the biacromial width) may have some minor advantages over small and wide grips. The pull-up bar is designed to allow grips only between single and double the width of the biacromial breadth. Each biacromial breadth has its own construction plan, so you can measure your biacromial distance and download the corresponding plan.
+Based on this study https://pubmed.ncbi.nlm.nih.gov/24662157/, the optimal grip width is 1-2 times the biacromial breadth. A medium grip (1.5 times the biacromial width) may have some minor advantages over small and wide grips. The pull-up bar is designed to allow grips only between single and double the width of the biacromial breadth. Each biacromial breadth has its own construction plan, so you can measure your biacromial breadth and download the corresponding plan.
 
 # Build instructions
 ## Needed tools
