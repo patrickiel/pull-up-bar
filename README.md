@@ -26,8 +26,8 @@ Based on this study https://pubmed.ncbi.nlm.nih.gov/24662157/, the optimal grip 
 
 ## Choose the right plan
 Measure your biacromial breadth, there are multiple online instructions.
-Go to "cad/pull-up bar variants/" and choose the right PDF-file
+Go to [pull-up bar variants](cad/pull-up%20bar%20variants) and choose the right PDF-file
 
 ## Print the plan
-If you have a standard printer you can use the tiling feature of your favourite PDF Reader to print the second sheet to multiple small sheets and align them using the marks.
+If you have a standard printer you can use the tiling feature of your favourite PDF Reader to print the second sheet of the pdf to multiple small sheets and align them using the marks.
 Transfer the contour to the plywood, cut it, use the router to round off the edges, sand it, hang it.
