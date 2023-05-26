@@ -2,7 +2,7 @@
 Personalized and ergonomic pull-up bar for ceiling mounting
 
 ## Why don't buy one?
-I was not satisfied with the commercial ceiling mount pull-up bars. Therefore, I decided to build my own pull-up bar. For me there were the following requirements:
+I decided to build my own pull-up bar because I was not satisfied with the commercial ceiling mounted pull-up bars. For me there where the following requirements:
 - Ergonomics, every person is different. I wanted to build a pull-up bar, adapted to my body. But here you can also find plans that fit youre body (further down in the instructions).
 - Dismountable, it should be able to be quickly dismount it after the workout.
 - Flexible handles, it should be possible to grip narrow, wide and medium.
