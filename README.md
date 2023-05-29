@@ -2,7 +2,7 @@
 Personalized and ergonomic pull-up bar for ceiling mounting
 
 ## Why don't buy one?
-I was not satisfied with the commercial ceiling mount pull-up bars. Therefore, I decided to build my own pull-up bar. For me there were the following requirements:
+I decided to build my own pull-up bar because I was not satisfied with the commercial ceiling mounted pull-up bars. For me there where the following requirements:
 - Ergonomics, every person is different. I wanted to build a pull-up bar, adapted to my body. But here you can also find plans that fit youre body (further down in the instructions).
 - Dismountable, it should be able to be quickly dismount it after the workout.
 - Flexible handles, it should be possible to grip narrow, wide and medium.
@@ -21,7 +21,13 @@ Based on this study https://pubmed.ncbi.nlm.nih.gov/24662157/, the optimal grip 
 - Tape measure
 
 ## Materials
-- Plywood
+- Plywood, dimensions according to the plan (I used two panels half the thickness and glued them together)
 - Fastening material (shackles or rope, hooks, carabiners)
 
 ## Choose the right plan
+Measure your biacromial breadth, there are multiple online instructions.
+Go to [pull-up bar variants](cad/pull-up%20bar%20variants) and choose the right PDF-file
+
+## Print the plan
+If you have a standard printer you can use the tiling feature of your favourite PDF Reader to print the second sheet of the pdf to multiple small sheets and align them using the marks.
+Transfer the contour to the plywood, cut it, use the router to round off the edges, sand it, hang it.
