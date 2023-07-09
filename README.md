@@ -1,19 +1,30 @@
-# Pull-up bar
-Personalized and ergonomic pull-up bar for ceiling mounting.
+# The Idea
+Personalized ergonomic pull-up bar for ceiling mounting, which works well in combination with gymnastic rings.
+
+![Pullup Bar animation](/media/bar.gif)
 
 ## Why not buy one?
-I decided to build my own pull-up bar because I was not satisfied with the commercial ceiling mounted pull-up bars. For me, there were the following requirements:
-- Ergonomics: Each person's physical characteristics are unique. I aimed to create a pull-up bar tailored to my physique. You can find a customizable plan suited to your body shape further down in the instructions.
-- Dismountable: It should be easy to dismount the bar after completing the workout.
-- Adjustable grip positions: It should provide for narrow, medium, and wide grip options.
-- Resistance band-friendly: There should be a provision to attach a resistance band.
-- Minimal damage: Since I live in a rented apartment, I wanted to inflict minimal damage on the ceiling. The unit should be mountable on the same hooks as the gymnastic rings, which typically have a standard distance of 50 cm.
+I decided to build my own pull-up bar because I was not satisfied with the commercially available ceiling mounted pull-up bars. I had the following requirements:
+- Ergonomics: Everyone's body is unique. I wanted to create a pull-up bar that fits my body, and yours. You can find a custom drawing that fits your body shape below in the instructions.
+- Dismountable: After the workout, the bar should be easy to remove.
+- Adjustable grip positions: Narrow, medium and wide grip.
+- Resistance Band Friendly: There should be a place to attach a resistance band.
+- Minimal damage: Living in a rental apartment, I wanted to minimize damage to the ceiling. The unit hat to be able to mount on the same hooks as the gymnastic rings, which typically have a standard spacing of 50 cm.
+
+![Bar Mounted](/media/bar_mounted.png)
+![Rings Mounted](/media/rings.png)
 
 # Biacromial breadth
-Based on this study https://pubmed.ncbi.nlm.nih.gov/24662157/, the optimal grip width is 1-2 times the biacromial breadth. A medium grip (1.5 times the biacromial width) may have some minor advantages over small and wide grips. This pull-up bar is designed to allow grip widths ranging between one and two times your biacromial breadth. You can select a construction plan correlating with your biacromial breadth measurement. To do this, measure your biacromial breadth and download the plan that matches your size.
+Based on this study https://pubmed.ncbi.nlm.nih.gov/24662157/, the optimal grip width is 1-2 times the biacromial breadth. A medium grip (1.5 times the biacromial width) may have some minor advantages over small and wide grips. This pull-up bar is designed to allow ony grips within this range.
+
+![Pull-up bar and rings](/media/animation.png)
 
 # Build instructions
-## Needed tools
+
+## Choose the plan
+Measure your biacromial breadth (search for an online instruction) and choose the corresponding PDF-file [pull-up bar variants](cad/pull-up%20bar%20variants) 
+
+## Tools
 - Jigsaw
 - Router
 - Drill
@@ -21,13 +32,11 @@ Based on this study https://pubmed.ncbi.nlm.nih.gov/24662157/, the optimal grip 
 - Tape Measure
 
 ## Materials
-- Plywood (dimensions as per the selected plan; I coulnd't find a panel of the desired thickness so I bought two panels of half the thickness and glued them together)
+- Plywood
 - Mounting materials (shackles or rope, hooks, carabiners)
 
-## Choose the right plan
-Measure your biacromial breadth, search for an online instruction.
-Go to [pull-up bar variants](cad/pull-up%20bar%20variants) and choose the corresponding PDF-file
-
-## Print the plan
-If you're using a standard printer, use the tiling feature of your preferred PDF Reader to print the second sheet of the PDF across multiple smaller sheets. Align these using the marks provided.
-Next, transfer the outline to the plywood and cut it out. Use the router to round off the edges, sand it to smoothness, and finally, mount it onto your ceiling.
+## Build it
+- If you're using a standard printer, use the tiling feature of your preferred PDF reader to print the second sheet of the PDF on several smaller sheets. Align these using the marks.
+- Transfer the outline to the plywood and cut it out.
+- Use your router to mill the edges, then sand.
+- Mount it to your ceiling.
