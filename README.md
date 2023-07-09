@@ -1,5 +1,7 @@
-# The Idea
-Personalized ergonomic pull-up bar for ceiling mounting, which works well in combination with gymnastic rings.
+# Custom pull-up bar
+
+## The Idea
+An ergonomic pull-up bar for ceiling mounting, which works well in combination with gymnastic rings.
 
 ![Pullup Bar animation](/media/bar.gif)
 
@@ -11,13 +13,12 @@ I decided to build my own pull-up bar because I was not satisfied with the comme
 - Resistance Band Friendly: There should be a place to attach a resistance band.
 - Minimal damage: Living in a rental apartment, I wanted to minimize damage to the ceiling. The unit hat to be able to mount on the same hooks as the gymnastic rings, which typically have a standard spacing of 50 cm.
 
-![Bar Mounted](/media/bar_mounted.png)
-![Rings Mounted](/media/rings.png)
+![Pull-up bar and rings](/media/animation.gif)
 
-# Biacromial breadth
+## Biacromial breadth
 Based on this study https://pubmed.ncbi.nlm.nih.gov/24662157/, the optimal grip width is 1-2 times the biacromial breadth. A medium grip (1.5 times the biacromial width) may have some minor advantages over small and wide grips. This pull-up bar is designed to allow ony grips within this range.
 
-![Pull-up bar and rings](/media/animation.png)
+![Pull-up bar](/media/bar_plus_explanation.png)
 
 # Build instructions
 
