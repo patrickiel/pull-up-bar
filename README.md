@@ -1,6 +1,6 @@
 # Pull-up bar
 
-## The Idea
+## The idea
 An ergonomic pull-up bar for ceiling mounting, which works well in combination with gymnastic rings.
 
 ![Pullup Bar animation](/media/bar.gif)
