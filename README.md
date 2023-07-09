@@ -1,4 +1,4 @@
-# Custom pull-up bar
+# Pull-up bar
 
 ## The Idea
 An ergonomic pull-up bar for ceiling mounting, which works well in combination with gymnastic rings.
