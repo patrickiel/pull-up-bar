@@ -41,5 +41,6 @@ Measure your biacromial breadth (search for an online instruction) and choose th
 - Transfer the outline to the plywood and cut it out.
 - Use your router to mill the edges, then sand.
 - Mount it to your ceiling.
-![Final build](/media/final build.png)
+  
+![Final build](/media/final%20build.png)
   
